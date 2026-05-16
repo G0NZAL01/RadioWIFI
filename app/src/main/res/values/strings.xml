@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RadioApp</string>
+    <string name="play">Reproducir</string>
+    <string name="pause">Pausar</string>
+    <string name="stop">Detener</string>
+    <string name="stream_url">https://stream.radioparadise.com/mp3-192</string>
+    <string name="hint_url">URL de la emisora</string>
+    <string name="default_station">Radio Paradise</string>
+    <string name="disconnected">Desconectado</string>
+    <string name="connecting">Conectando…</string>
+    <string name="buffering">Cargando…</string>
+    <string name="channel_radio">Radio</string>
+</resources>
