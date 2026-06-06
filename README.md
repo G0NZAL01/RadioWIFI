@@ -1,4 +1,4 @@
-# 📻 Radio WiFi Android App
+# 📻 RadiWiFi (Android APK)
 
 ![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin/Java](https://img.shields.io/badge/Language-Kotlin%20%2F%20Java-007ACC?style=for-the-badge)
