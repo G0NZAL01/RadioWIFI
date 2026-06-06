@@ -2,7 +2,6 @@
 
 ![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin/Java](https://img.shields.io/badge/Language-Kotlin%20%2F%20Java-007ACC?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 
 Una aplicación nativa para Android diseñada para sintonizar tus emisoras de radio favoritas a través de la red WiFi, de forma rápida, fluida y sin complicaciones. Ideal para revivir la radio clásica con la estabilidad de las tecnologías de streaming actuales.
 
